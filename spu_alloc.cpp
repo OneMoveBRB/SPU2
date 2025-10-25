@@ -4,7 +4,6 @@
 #include <stdlib.h>
 #include <assert.h>
 
-
 SPU_Err_t SPU_Init(SPU* processor, const char* filename) {
     assert( processor != NULL );
     assert( filename != NULL );
