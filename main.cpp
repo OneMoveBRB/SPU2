@@ -4,7 +4,6 @@
 #include "spu_alloc.h"
 #include "spu_launch.h"
 
-
 int main() {
     const char* bytecode = "../asm/bytecode.bin";
 
